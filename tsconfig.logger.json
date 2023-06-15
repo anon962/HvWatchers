@@ -1,0 +1,7 @@
+{
+    "extends": "./tsconfig.state.json",
+    "files": [ "hvw_logger.ts" ],
+    "compilerOptions": {
+        "outFile": "dist/hvw_logger.js"
+    }
+}
